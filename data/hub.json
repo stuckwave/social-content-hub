@@ -1,6 +1,64 @@
 {
   "projects": [
     {
+      "id": "demo-central-ai",
+      "name": "central-ai",
+      "niche": "Interne Probleme blitzschnell lösen, zuhören, optimieren, sich absetzen",
+      "description": "Maßgeschneiderte KI-Lösungen für den Mittelstand aus dem Weserbergland. Gründer Sascha Vieth als einziger Ansprechpartner — vom Gespräch bis zur fertigen Anwendung.",
+      "platforms": [
+        "instagram",
+        "youtube"
+      ],
+      "referenceChannels": [
+        {
+          "id": "ref-cai-1",
+          "url": "https://central-ai.de/",
+          "platform": "instagram",
+          "note": "Website als Stil-Referenz (kein Social-Kanal verifiziert)"
+        }
+      ],
+      "styleProfile": {
+        "status": "fertig",
+        "analyzedAt": "2026-09-22T20:35:00.000Z",
+        "summary": "Central AI verkauft KI-Lösungen für den Mittelstand als persönliches Ein-Mann-Angebot: Der Gründer kommt vorbei, hört zu, baut einen Prototyp in Tagen statt Konzeptpapier. Der Stil lebt von drei Spannungen: konkrete Alltags-Schmerzpunkte vs. elegante Lösung, große KI-Versprechen vs. bodenständige Hands-on-Haltung, Anonymität der Branche vs. ein Gesicht und eine Telefonnummer.",
+        "tone": "Klartext-Ton: Siezen, kurze Sätze, null Buzzwords. Respektvoll-nüchtern, mit trockenem Selbstbewusstsein („keine Folienschlacht“). Schmerz benennen, dann Lösung zeigen — nie umgekehrt. Persönliche Ich-Form vom Gründer.",
+        "visualStyle": "Ruhiger, dunkler Premium-Look: viel Dunkelblau, klare Akzente in leuchtendem Blau, großzügige Weißräume, reduzierte Nummerierung (01 — 02 — 03). Screenshots echter Prototypen statt Stockfotos.",
+        "colorPalette": [
+          "#1A2540",
+          "#2D4A8A",
+          "#4F8CFF",
+          "#7EB0FF",
+          "#F5F7FA"
+        ],
+        "hookPatterns": [
+          "Schmerz-Split: „Doppelte Arbeit. Jeden Tag.“ — Problem in zwei kurzen Sätzen, dann Auflösung",
+          "Anti-Hype-Kontrast: „Statt PowerPoint bekommen Sie einen funktionierenden Prototyp“",
+          "Vorher/Nachher aus der Werkstatt: „Aufträge, die auf Zetteln wanderten, landen jetzt auf einem Bildschirm“",
+          "Nummerierte Klarheit: 01 — Wir hören zu. 02 — Wir legen offen. 03 — Lösung."
+        ],
+        "captionStyle": "Prägnanter Schmerz-Satz als Opener (max. 6 Wörter), dann 2–3 Sätze konkrete Lösung mit echtem Beispiel, dann ruhiger CTA. Keine Emoji-Wände, Sie-Form konsequent.",
+        "hashtagStyle": "Sachlich und sparsam, B2B-/Region-Bezug — maximal 4–5, keine Trend-Hashtags.",
+        "postingRhythm": "Empfehlung (kein Social-Feed verifizierbar): 2–3 Posts/Woche. Montag Schmerzpunkt, Mittwoch Prototyp-Demo als Bildschirmaufnahme, Freitag Behind the Scenes.",
+        "dos": [
+          "Echte Prototypen und Bildschirmaufnahmen zeigen statt über KI zu theoretisieren",
+          "Konkrete Mittelstands-Szenen: Werkstatt, Auftragsbuch, Angebote, Zettel",
+          "Mit Zahlen und Zeitangaben arbeiten („Prototyp in Tagen“)"
+        ],
+        "donts": [
+          "Keine KI-Buzzwords („Disruption“, „Gamechanger“)",
+          "Keine Stockfotos mit Handshakes oder Anzug-Teams",
+          "Keine Übertreibungen — Offenheit ist das Markenzeichen"
+        ],
+        "sources": [
+          {
+            "url": "https://central-ai.de/",
+            "findings": "Positionierung „Ihre Prozesse. Klüger gelöst.“, 3-Schritte-Prozess, Schmerz-Hooks, Demo-Showcases, Gründer als einziger Ansprechpartner, kostenloses Erstgespräch."
+          }
+        ]
+      },
+      "createdAt": "2026-09-22T20:40:00.000Z"
+    },
+    {
       "id": "demo-herbstkollektion",
       "name": "Herbstkollektion",
       "niche": "Neue Modekollektion 2027",
@@ -367,6 +425,298 @@
         }
       ],
       "createdAt": "2026-09-22T09:30:00.000Z"
+    },
+    {
+      "id": "demo-plan-cai-kw41",
+      "projectId": "demo-central-ai",
+      "topic": "Zettelwirtschaft & doppelte Arbeit — die stillen Zeitfresser im Mittelstand",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-11",
+      "items": [
+        {
+          "id": "cai-i1",
+          "date": "2026-10-05",
+          "platform": "instagram",
+          "format": "carousel",
+          "title": "Doppelte Arbeit. Jeden Tag.",
+          "hook": "Doppelte Arbeit. Jeden Tag.",
+          "caption": "In vielen Betrieben wandert derselbe Auftrag dreimal durch denselben Tag: Zettel, Anruf, Excel.\n\nDas kostet nicht nur Zeit — es erzeugt Fehler, die niemand mehr nachvollziehen kann.\n\nIm Erstgespräch schauen wir uns genau diese Stellen an. Unverbindlich, vor Ort, in Klartext.\n\n→ kostenloses Erstgespräch: Link in Bio",
+          "hashtags": [
+            "#mittelstand",
+            "#digitalisierung",
+            "#prozessoptimierung",
+            "#ki"
+          ],
+          "slides": [
+            {
+              "title": "Doppelte Arbeit. Jeden Tag.",
+              "text": "Dieselben Daten, dreimal erfasst. Kommt Ihnen das bekannt vor?"
+            },
+            {
+              "title": "So sieht das aus",
+              "text": "Auftrag auf dem Zettel. Zettel wandert durch die Werkstatt. Abends tippt jemand alles ins System."
+            },
+            {
+              "title": "Was das kostet",
+              "text": "Im Schnitt 45 Minuten pro Auftrag. Bei 20 Aufträgen am Tag: ein voller Arbeitstag pro Woche."
+            },
+            {
+              "title": "Die Alternative",
+              "text": "Einmal erfassen, überall verfügbar. Kein Zettel, kein Abtippen, kein Nachfragen."
+            },
+            {
+              "title": "Der erste Schritt",
+              "text": "Ein Gespräch reicht. Wir hören zu, wir schauen hin — dann sagen wir offen, ob es sich lohnt."
+            }
+          ],
+          "script": null,
+          "assetPrompt": "Dark premium B2B carousel, navy #1A2540 base, bright blue #4F8CFF accents, numbered minimal slides.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-mo-slide-1.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-mo-slide-2.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-mo-slide-3.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-mo-slide-4.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-mo-slide-5.jpg"
+            }
+          ]
+        },
+        {
+          "id": "cai-i2",
+          "date": "2026-10-06",
+          "platform": "instagram",
+          "format": "reel",
+          "title": "Aus dem Gespräch wird das Angebot. In Minuten.",
+          "hook": "Sie diktieren zwei Minuten. Das Angebot schreibt sich selbst.",
+          "caption": "Kurzes Protokoll rein, fertig formulierter Angebotsentwurf raus.\n\nKein Konzeptpapier, keine Folienschlacht — ein funktionierender Prototyp, gebaut für Ihren Betrieb.\n\nInteresse? Erstgespräch: Link in Bio.",
+          "hashtags": [
+            "#ki",
+            "#mittelstand",
+            "#digitalisierung"
+          ],
+          "slides": null,
+          "script": "HOOK (0–3 s): Bildschirm mit Diktat — „Sie diktieren zwei Minuten. Das Angebot schreibt sich selbst.“\nDEMO (3–15 s): Screen-Aufnahme: Gesprächsprotokoll wird eingefügt, der Assistent formuliert Positionen, Preise, Anschreiben.\nBEWEIS (15–22 s): „Das ist kein Konzept. Das läuft. Entwickelt in Tagen, nicht Monaten.“\nCTA (22–28 s): „Kostenloses Erstgespräch — Link in Bio. Ich sage Ihnen offen, ob es sich für Sie lohnt.“",
+          "assetPrompt": "Vertical screen-recording-style reel cover, dark navy UI mockup, bright blue accents.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-41/reel-di-thumb.jpg"
+            }
+          ]
+        },
+        {
+          "id": "cai-i3",
+          "date": "2026-10-07",
+          "platform": "youtube",
+          "format": "short",
+          "title": "Wissen, das nur in Köpfen steckt",
+          "hook": "Ihr wichtigstes Wissen hat keine Suchfunktion.",
+          "caption": "Wenn nur Herr Müller weiß, wie die Maschine von 2011 eingestellt wird, ist das kein Wissensmanagement — das ist ein Risiko.\n\nUnsere Wissens-Suche: Mitarbeiter fragen in Alltagssprache und finden Antworten aus den eigenen Unterlagen.\n\n#mittelstand #ki #wissensmanagement",
+          "hashtags": [
+            "#mittelstand",
+            "#ki",
+            "#wissensmanagement"
+          ],
+          "slides": null,
+          "script": "HOOK (0–3 s): „Ihr wichtigstes Wissen hat keine Suchfunktion.“\nPROBLEM (3–10 s): „Es steckt in Köpfen. Und wenn der Kopf im Urlaub ist?“\nLÖSUNG (10–20 s): Demo: Mitarbeiter fragt „Wie kalibriere ich die Säge?“ — Antwort aus den eigenen Unterlagen, mit Quelle.\nCTA (20–25 s): „Erstgespräch vereinbaren — unverbindlich, auf Augenhöhe.“",
+          "assetPrompt": "Vertical short cover, dark navy, search interface mockup in bright blue.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-41/short-mi-cover.jpg"
+            }
+          ]
+        },
+        {
+          "id": "cai-i4",
+          "date": "2026-10-08",
+          "platform": "instagram",
+          "format": "carousel",
+          "title": "3 Anzeichen, dass Ihr Betrieb Zeit verschenkt",
+          "hook": "Zeit verschenkt man nicht. Die meisten Betriebe tun es trotzdem.",
+          "caption": "Drei Anzeichen, die wir in fast jedem Erstgespräch finden — und was dagegen hilft.\n\nSpeichern Sie diesen Beitrag für Ihr nächstes Team-Meeting.\n\n→ Erstgespräch: Link in Bio",
+          "hashtags": [
+            "#prozessoptimierung",
+            "#mittelstand",
+            "#digitalisierung",
+            "#ki"
+          ],
+          "slides": [
+            {
+              "title": "3 Anzeichen, dass Ihr Betrieb Zeit verschenkt",
+              "text": "Gefunden in fast jedem Erstgespräch."
+            },
+            {
+              "title": "01 — Doppelte Erfassung",
+              "text": "Dieselben Daten in zwei Systemen. Jedes Abtippen ist Fehlerquelle und verlorene Zeit."
+            },
+            {
+              "title": "02 — Zettelwirtschaft",
+              "text": "Informationen ohne festen Ort. Wer suchen muss, verliert."
+            },
+            {
+              "title": "03 — Kopfmonopole",
+              "text": "Wissen bei einer einzigen Person. Fällt sie aus, steht der Prozess."
+            },
+            {
+              "title": "Was hilft",
+              "text": "Nicht mehr Software. Sondern die richtige Stelle, klug gelöst. Wir zeigen Ihnen, wo das bei Ihnen ist."
+            }
+          ],
+          "script": null,
+          "assetPrompt": "Dark premium B2B carousel, numbered 01-03 layout, navy and bright blue.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-do-slide-1.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-do-slide-2.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-do-slide-3.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-do-slide-4.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-do-slide-5.jpg"
+            }
+          ]
+        },
+        {
+          "id": "cai-i5",
+          "date": "2026-10-09",
+          "platform": "instagram",
+          "format": "reel",
+          "title": "Ein Tag mit dem, der es auch baut",
+          "hook": "Keine Vertriebskette. Keine Übergaben. Ein Ansprechpartner.",
+          "caption": "Vom ersten Gespräch bis zur fertigen Anwendung sprechen Sie bei Central AI mit derselben Person.\n\nHeute: Vor-Ort-Termin in einer Schreinerei im Weserbergland. Was wir dort gefunden haben, zeigen wir nächste Woche.\n\n#ki #mittelstand #weserbergland",
+          "hashtags": [
+            "#ki",
+            "#mittelstand",
+            "#weserbergland"
+          ],
+          "slides": null,
+          "script": "HOOK (0–3 s): Gründer steigt aus dem Auto vor einer Werkstatt — „Keine Vertriebskette. Keine Übergaben. Ein Ansprechpartner.“\nTAG (3–15 s): Kurze Impressionen: Gespräch am Werktisch, Notizen, Blick ins Auftragsbuch.\nANSPRACHE (15–22 s): Direkt in die Kamera: „Ich komme vorbei, ich höre zu, und dann baue ich das, was wir besprochen haben.“\nCTA (22–28 s): „Erstgespräch: Link in Bio. Mo–Fr, 9–17 Uhr.“",
+          "assetPrompt": "Vertical reel cover, founder in front of a workshop, dark navy grade, blue accent.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-41/reel-fr-thumb.jpg"
+            }
+          ]
+        },
+        {
+          "id": "cai-i6",
+          "date": "2026-10-10",
+          "platform": "youtube",
+          "format": "short",
+          "title": "Statt PowerPoint: ein Prototyp",
+          "hook": "Die meisten KI-Berater liefern Folien. Wir liefern etwas zum Anfassen.",
+          "caption": "Nach der Analyse bekommen Sie von uns kein Konzeptpapier — sondern einen funktionierenden Prototyp, entwickelt für Ihren Betrieb.\n\nGefällt er, bauen wir daraus Ihre Anwendung. Gefällt er nicht, hat es Sie nichts gekostet.\n\n#ki #mittelstand #digitalisierung",
+          "hashtags": [
+            "#ki",
+            "#mittelstand",
+            "#digitalisierung"
+          ],
+          "slides": null,
+          "script": "HOOK (0–3 s): „Die meisten KI-Berater liefern Folien. Wir liefern etwas zum Anfassen.“\nKONTRAST (3–12 s): Splitscreen: dicke Präsentation vs. funktionierende App auf dem Bildschirm.\nBEWEIS (12–20 s): „Entwickelt in Tagen. Vorgestellt im Klartext. Ohne Risiko für Sie.“\nCTA (20–25 s): „Kostenloses Erstgespräch — wir sagen offen, ob es sich lohnt.“",
+          "assetPrompt": "Vertical short cover, splitscreen slides vs. working app, navy/blue.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-41/short-sa-cover.jpg"
+            }
+          ]
+        },
+        {
+          "id": "cai-i7",
+          "date": "2026-10-11",
+          "platform": "instagram",
+          "format": "carousel",
+          "title": "So läuft ein Erstgespräch bei uns ab",
+          "hook": "Ein Erstgespräch bei uns dauert 30 Minuten. Hier ist, was passiert.",
+          "caption": "Kein Verkaufsgespräch. Kein Druck.\n\n01 — Wir hören zu.\n02 — Wir legen offen, wo es klemmt.\n03 — Wir sagen offen, ob KI bei Ihnen wirklich hilft.\n\n→ Termin: Link in Bio",
+          "hashtags": [
+            "#mittelstand",
+            "#ki",
+            "#digitalisierung",
+            "#weserbergland"
+          ],
+          "slides": [
+            {
+              "title": "So läuft ein Erstgespräch ab",
+              "text": "30 Minuten. Kein Verkaufsdruck. Versprochen."
+            },
+            {
+              "title": "01 — Wir hören zu",
+              "text": "Sie erzählen, wie Ihr Betrieb wirklich arbeitet. Vor Ort oder am Telefon."
+            },
+            {
+              "title": "02 — Wir legen offen, wo es klemmt",
+              "text": "Wo Zeit verloren geht, wo Fehler entstehen, wo KI wirklich hilft — und wo nicht."
+            },
+            {
+              "title": "03 — Ehrliche Empfehlung",
+              "text": "Wenn es sich nicht lohnt, sagen wir das. Wenn doch, bekommen Sie einen klaren nächsten Schritt."
+            },
+            {
+              "title": "Bereit?",
+              "text": "Kostenloses Erstgespräch vereinbaren — Link in Bio. Antwort innerhalb eines Werktags."
+            }
+          ],
+          "script": null,
+          "assetPrompt": "Dark premium B2B carousel, 01-02-03 numbered slides, navy base, bright blue numbers.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-so-slide-1.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-so-slide-2.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-so-slide-3.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-so-slide-4.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-41/karussell-so-slide-5.jpg"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-09-22T20:40:00.000Z"
     }
   ]
 }

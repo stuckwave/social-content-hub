@@ -215,6 +215,10 @@
             {
               "type": "image",
               "path": "assets/kw-40/reel-di-thumb.jpg"
+            },
+            {
+              "type": "video",
+              "path": "assets/kw-40/reel-di-thumb.mp4"
             }
           ]
         },
@@ -239,6 +243,10 @@
             {
               "type": "image",
               "path": "assets/kw-40/short-mi-cover.jpg"
+            },
+            {
+              "type": "video",
+              "path": "assets/kw-40/short-mi-cover.mp4"
             }
           ]
         },
@@ -329,6 +337,10 @@
             {
               "type": "image",
               "path": "assets/kw-40/reel-fr-thumb.jpg"
+            },
+            {
+              "type": "video",
+              "path": "assets/kw-40/reel-fr-thumb.mp4"
             }
           ]
         },
@@ -354,6 +366,10 @@
             {
               "type": "image",
               "path": "assets/kw-40/short-sa-cover.jpg"
+            },
+            {
+              "type": "video",
+              "path": "assets/kw-40/short-sa-cover.mp4"
             }
           ]
         },
@@ -516,6 +532,10 @@
             {
               "type": "image",
               "path": "assets/kw-41/reel-di-thumb.jpg"
+            },
+            {
+              "type": "video",
+              "path": "assets/kw-41/reel-di-thumb.mp4"
             }
           ]
         },
@@ -540,6 +560,10 @@
             {
               "type": "image",
               "path": "assets/kw-41/short-mi-cover.jpg"
+            },
+            {
+              "type": "video",
+              "path": "assets/kw-41/short-mi-cover.mp4"
             }
           ]
         },
@@ -626,6 +650,10 @@
             {
               "type": "image",
               "path": "assets/kw-41/reel-fr-thumb.jpg"
+            },
+            {
+              "type": "video",
+              "path": "assets/kw-41/reel-fr-thumb.mp4"
             }
           ]
         },
@@ -650,6 +678,10 @@
             {
               "type": "image",
               "path": "assets/kw-41/short-sa-cover.jpg"
+            },
+            {
+              "type": "video",
+              "path": "assets/kw-41/short-sa-cover.mp4"
             }
           ]
         },

@@ -1,0 +1,372 @@
+{
+  "projects": [
+    {
+      "id": "demo-herbstkollektion",
+      "name": "Herbstkollektion",
+      "niche": "Neue Modekollektion 2027",
+      "description": "Limitierte Kleinserien aus eigener Manufaktur. Zielgruppe: modeinteressierte Frauen 25–55.",
+      "platforms": [
+        "instagram",
+        "youtube"
+      ],
+      "referenceChannels": [
+        {
+          "id": "ref-1",
+          "url": "https://www.instagram.com/lensdorf.official/",
+          "platform": "instagram",
+          "note": "Stil-Referenz: Manufaktur, Drop-Kultur"
+        }
+      ],
+      "styleProfile": {
+        "status": "fertig",
+        "analyzedAt": "2026-09-22T09:20:00.000Z",
+        "summary": "Fashion-Manufaktur mit limitierten Kleinserien und Drop-Kultur. Persönliche Gründer-Nähe, Knappheit und Vorfreude: Produkte bekommen Eigennamen und werden wie Charaktere vorgestellt, Drops mit Countdown und exaktem Live-Zeitpunkt angekündigt.",
+        "tone": "Warm, persönlich, geduzt, Gründer-Perspektive. Emotional verliebt in die Produkte, aber immer konkret. Vorfreude statt Werbedruck.",
+        "visualStyle": "Hochwertige Produkt- und Look-Fotografie, Pieces am Körper, authentische Manufaktur-Atmosphäre, editorial und ruhig.",
+        "colorPalette": [
+          "#7A2E3A",
+          "#2F3A4A",
+          "#E8DCC8",
+          "#1A1A1A"
+        ],
+        "hookPatterns": [
+          "Countdown-Hook: „Der Countdown läuft … nur noch X Tage bis zum Drop!“",
+          "NEW IN //: Neue Pieces werden mit „NEW IN // NAME“ eingeführt",
+          "Produkt als Charakter mit Eigenname",
+          "Knappheits-Hook: „Nur in sehr kleinen Stückzahlen verfügbar“"
+        ],
+        "captionStyle": "Kurzer emotionaler Einstieg, Produktname in CAPS mit Doppel-Slash („Hoodie // HEY LOVE“), Drop-Infos exakt mit „Wochentag // Datum // Uhrzeit“, sparsame Emojis (✨).",
+        "hashtagStyle": "Zurückhaltend, markeneigen — keine Tag-Spam-Blöcke.",
+        "postingRhythm": "Drop-getrieben: Ankündigung → Countdown → Live-Gang → Nachbereitung; dazwischen Behind the Scenes.",
+        "dos": [
+          "Jedes Piece mit Eigennamen und Persönlichkeit vorstellen",
+          "Konkrete Drop-Zeiten nennen (Wochentag // Datum // Uhrzeit)",
+          "Knappheit und Kleinserien-Charakter betonen"
+        ],
+        "donts": [
+          "Keine generischen Fashion-Floskeln ohne Produktbezug",
+          "Kein Hashtag-Spam",
+          "Keine aggressive Sale-Sprache"
+        ],
+        "sources": [
+          {
+            "url": "https://www.instagram.com/lensdorf.official/",
+            "findings": "Bio: Leather • Knit • Ready to wear — Manufaktur & Design, limitiert, Kleinserien; Drop-Kultur mit Countdowns und exakten Live-Zeiten."
+          },
+          {
+            "url": "https://www.lensdorf.com/",
+            "findings": "Website: „Fashion To Love“, Manufaktur & Conceptstore, Termin-Kultur, Sample Sales."
+          }
+        ]
+      },
+      "createdAt": "2026-09-22T09:00:00.000Z"
+    }
+  ],
+  "plans": [
+    {
+      "id": "demo-plan-kw40",
+      "projectId": "demo-herbstkollektion",
+      "topic": "Herbstkollektion 2027: Teaser & Ankündigung des ersten Drops",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-04",
+      "items": [
+        {
+          "id": "demo-i1",
+          "date": "2026-09-28",
+          "platform": "instagram",
+          "format": "carousel",
+          "title": "NEW IN // Die Herbstkollektion 2027 ist unterwegs",
+          "hook": "NEW IN // Wir haben ein Date. ✨",
+          "caption": "Manche Dates behält man für sich — dieses nicht. ✨ Unsere Herbstkollektion 2027 steht in den Startlöchern, und der erste Drop kommt: Freitag // 09.10.2026 // 18:00 Uhr. Alles in unserer Manufaktur entstanden, alles nur in kleinen Stückzahlen. Swipe für den ersten Blick.",
+          "hashtags": [
+            "#herbstkollektion",
+            "#manufaktur",
+            "#limitiert",
+            "#kleinserien"
+          ],
+          "slides": [
+            {
+              "title": "Es ist soweit",
+              "text": "Unsere Herbstkollektion 2027 ist fertig – und wir können das erste Date kaum noch für uns behalten."
+            },
+            {
+              "title": "Elf Monate Arbeit",
+              "text": "Vom ersten Stoffmuster bis zur letzten Naht: entstanden in unserer Manufaktur, Stück für Stück."
+            },
+            {
+              "title": "Vier Farben, ein Gefühl",
+              "text": "Weinrot, Denim, Creme, Schwarz. Ruhige Töne, die du jeden Herbst wieder anziehst."
+            },
+            {
+              "title": "Klein & limitiert",
+              "text": "Jedes Piece kommt nur in kleinen Stückzahlen. Wenn es weg ist, ist es weg."
+            },
+            {
+              "title": "Speicher dir das Datum",
+              "text": "Erster Drop: Freitag // 09.10.2026 // 18:00 Uhr. Wir zählen schon."
+            }
+          ],
+          "script": null,
+          "assetPrompt": "Editorial fashion photography, autumn collection teaser: wine-red wool coat in a tailoring atelier.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-mo-titel.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-mo-slide-1.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-mo-slide-2.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-mo-slide-3.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-mo-slide-4.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-mo-slide-5.jpg"
+            }
+          ]
+        },
+        {
+          "id": "demo-i2",
+          "date": "2026-09-29",
+          "platform": "instagram",
+          "format": "reel",
+          "title": "Pssst — so entsteht dein neues Lieblingspiece",
+          "hook": "Pssst — ein erster Blick in die Manufaktur, bevor irgendjemand sonst etwas sieht.",
+          "caption": "Normalerweise bleibt unsere Werkstatttür zu — heute nicht. So entstehen die Pieces, die du bald anziehst. Erster Drop: Freitag // 09.10.2026 // 18:00 Uhr, nur in kleinen Stückzahlen.",
+          "hashtags": [
+            "#manufaktur",
+            "#herbstkollektion",
+            "#kleinserien"
+          ],
+          "slides": null,
+          "script": "HOOK (0–3 s): Hände führen weinrote Wolle unter die Nadel — „Hörst du das? Das ist der Anfang von allem.“\nSETUP (3–8 s): Garnrollen, Kreide auf Stoff — „Jede Naht, jedes Bündchen — von Hand, bei uns im Haus.“\nPUNKT (8–15 s): Zuschnitt in Zeitlupe — „Keine Massenware. Kleine Stückzahlen, damit jedes Piece besonders bleibt.“\nAUSBLICK (15–21 s): Fertiges Piece wird aufgehängt — „Die Herbstkollektion 2027 ist fast bereit.“\nCTA (21–25 s): „Freitag, 18 Uhr. Wir sehen uns. ✨“",
+          "assetPrompt": "Vertical editorial photograph, tailor hands sewing wine-red wool at a vintage machine.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-40/reel-di-thumb.jpg"
+            }
+          ]
+        },
+        {
+          "id": "demo-i3",
+          "date": "2026-09-30",
+          "platform": "youtube",
+          "format": "short",
+          "title": "Noch 9 Tage bis zum ersten Drop",
+          "hook": "Nur noch 9 Tage — und dann ist sie da.",
+          "caption": "Der Countdown läuft: nur noch 9 Tage bis zum ersten Drop der Herbstkollektion 2027. Freitag // 09.10.2026 // 18:00 Uhr — und wie immer nur in kleinen Stückzahlen. ✨",
+          "hashtags": [
+            "#herbstkollektion",
+            "#limitiert",
+            "#manufaktur"
+          ],
+          "slides": null,
+          "script": "HOOK (0–4 s): Flat-Lay der Stoffmuster — „Weinrot. Denim. Creme. Schwarz. Mehr verraten wir noch nicht.“\nMITTE (4–10 s): Schneller Schnitt durch vier Farben — „Vier Farben, eine Kollektion, elf Monate Arbeit.“\nTERMIN (10–15 s): Hand umkreist Datum im Kalender — „Freitag // 09.10.2026 // 18:00 Uhr — der erste Drop.“\nCTA (15–20 s): „Kleine Stückzahlen. Sei früh da.“",
+          "assetPrompt": "Vertical flat-lay: fabric swatches in wine red, denim, cream, black on worktable.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-40/short-mi-cover.jpg"
+            }
+          ]
+        },
+        {
+          "id": "demo-i4",
+          "date": "2026-10-01",
+          "platform": "instagram",
+          "format": "carousel",
+          "title": "NEW IN // Drei Pieces, drei Charaktere",
+          "hook": "Drei Namen solltest du dir bis zum Drop merken.",
+          "caption": "Wir verlieben uns in jedes Piece ein bisschen — deshalb bekommen sie bei uns Namen. ✨ Wollmantel // ELSA, Strickpullover // FERN, Denim-Jacke // WIESE. Alle drei kommen im ersten Drop: Freitag // 09.10.2026 // 18:00 Uhr. Welcher Name bleibt bei dir hängen?",
+          "hashtags": [
+            "#herbstkollektion",
+            "#manufaktur",
+            "#limitiert",
+            "#kleinserien"
+          ],
+          "slides": [
+            {
+              "title": "Wollmantel // ELSA",
+              "text": "Weinrot, schwer fallend, leise elegant. Der Mantel, nach dem du jeden Oktober greifst."
+            },
+            {
+              "title": "Strickpullover // FERN",
+              "text": "Cremeweißer Zopfstrick, weich und warm. Wie der erste freie Sonntag im Herbst."
+            },
+            {
+              "title": "Denim-Jacke // WIESE",
+              "text": "Dunkler Denim, ehrlich vernäht. Geht über Kleid, Rock und alles dazwischen."
+            },
+            {
+              "title": "Detailverliebt",
+              "text": "Jede Masche, jede Naht von Hand gefasst. Manufaktur statt Massenware."
+            },
+            {
+              "title": "Alle drei am Freitag",
+              "text": "Drop: Freitag // 09.10.2026 // 18:00 Uhr. Nur in kleinen Stückzahlen."
+            }
+          ],
+          "script": null,
+          "assetPrompt": "Square editorial fashion photograph: three autumn garments on wooden hangers.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-do-titel.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-do-slide-1.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-do-slide-2.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-do-slide-3.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-do-slide-4.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-do-slide-5.jpg"
+            }
+          ]
+        },
+        {
+          "id": "demo-i5",
+          "date": "2026-10-02",
+          "platform": "instagram",
+          "format": "reel",
+          "title": "Das erste Mal // ELSA",
+          "hook": "Dieser Moment, wenn du ein neues Piece zum ersten Mal anziehst — hier ist er.",
+          "caption": "Ganz ehrlich: Wir haben ELSA im Atelier schon heimlich anprobiert. ✨ Ab Freitag // 09.10.2026 // 18:00 Uhr kannst du es auch — Wollmantel // ELSA kommt im ersten Drop, nur in kleinen Stückzahlen.",
+          "hashtags": [
+            "#herbstkollektion",
+            "#manufaktur",
+            "#limitiert"
+          ],
+          "slides": null,
+          "script": "HOOK (0–4 s): Hand greift nach dem weinroten Mantel — „Elf Monate haben wir auf diesen Moment hingearbeitet.“\nMITTE (4–10 s): Anziehen in Zeitlupe — „Wollmantel // ELSA. Weinrot, schwer fallend, ganz leise.“\nEMOTION (10–15 s): Drehung vorm Atelierspiegel — „Manche Pieces trägt man. ELSA bewohnt man.“\nCTA (15–20 s): „Freitag, 18 Uhr. ✨“",
+          "assetPrompt": "Vertical editorial photograph: woman slipping into wine-red wool coat in atelier.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-40/reel-fr-thumb.jpg"
+            }
+          ]
+        },
+        {
+          "id": "demo-i6",
+          "date": "2026-10-03",
+          "platform": "youtube",
+          "format": "short",
+          "title": "Warum unser Drop schnell weg ist",
+          "hook": "Das hier ist die komplette erste Auflage. Ja, wirklich.",
+          "caption": "Knappheit ist bei uns kein Marketingwort, sondern Werkstattalltag: Die Herbstkollektion 2027 kommt nur in kleinen Stückzahlen, jedes Piece nummeriert. Erster Drop: Freitag // 09.10.2026 // 18:00 Uhr.",
+          "hashtags": [
+            "#kleinserien",
+            "#limitiert",
+            "#herbstkollektion",
+            "#manufaktur"
+          ],
+          "slides": null,
+          "script": "HOOK (0–5 s): Kurze Stange mit wenigen Pieces — „Das ist keine Deko. Das ist die erste Auflage.“\nMITTE (5–11 s): Hand zählt Anhänger — „Kleinserien heißt bei uns: einmal produziert, nie nachproduziert.“\nDETAIL (11–15 s): Anhänger mit Nummer — „Jedes Piece bekommt seine Nummer — und seinen Namen.“\nCTA (15–20 s): „Freitag, 18 Uhr. Sei früh da. ✨“",
+          "assetPrompt": "Vertical photograph: short clothing rail with few garments and kraft-paper hang tags.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-40/short-sa-cover.jpg"
+            }
+          ]
+        },
+        {
+          "id": "demo-i7",
+          "date": "2026-10-04",
+          "platform": "instagram",
+          "format": "carousel",
+          "title": "Countdown // Nur noch 5 Tage",
+          "hook": "Nur noch 5 Tage bis zum ersten Drop. ✨",
+          "caption": "Noch 5 Tage, dann ist es so weit. ✨ Erster Drop der Herbstkollektion 2027: Freitag // 09.10.2026 // 18:00 Uhr. Kleine Stückzahlen, nummerierte Pieces — stell dir am besten schon mal den Wecker. Wir freuen uns auf dich.",
+          "hashtags": [
+            "#herbstkollektion",
+            "#limitiert",
+            "#manufaktur",
+            "#kleinserien"
+          ],
+          "slides": [
+            {
+              "title": "Nur noch 5 Tage",
+              "text": "Am Freitag um 18:00 Uhr geht der erste Drop der Herbstkollektion 2027 live."
+            },
+            {
+              "title": "Was dich erwartet",
+              "text": "Wollmantel // ELSA, Strickpullover // FERN, Denim-Jacke // WIESE – und zwei Überraschungen."
+            },
+            {
+              "title": "Ehrlich gesagt",
+              "text": "Die Stückzahlen sind klein. Manche Größen werden in Minuten weg sein."
+            },
+            {
+              "title": "So bist du dabei",
+              "text": "Speicher dir den Beitrag, stell dir den Wecker: Freitag // 09.10.2026 // 18:00 Uhr."
+            },
+            {
+              "title": "Wir freuen uns auf dich",
+              "text": "Fashion to love, aus unserer Manufaktur. Bis Freitag."
+            }
+          ],
+          "script": null,
+          "assetPrompt": "Square editorial photograph: kraft-paper tag on wine-red coat sleeve.",
+          "status": "fertig",
+          "assets": [
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-so-titel.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-so-slide-1.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-so-slide-2.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-so-slide-3.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-so-slide-4.jpg"
+            },
+            {
+              "type": "image",
+              "path": "assets/kw-40/karussell-so-slide-5.jpg"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-09-22T09:30:00.000Z"
+    }
+  ]
+}
